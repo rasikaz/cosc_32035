@@ -1,0 +1,10 @@
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\bin\Debug\Practical5.exe.config
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\bin\Debug\Practical5.exe
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\bin\Debug\Practical5.pdb
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\obj\Debug\Practical5.csprojResolveAssemblyReference.cache
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\obj\Debug\Practical5.Form1.resources
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\obj\Debug\Practical5.Properties.Resources.resources
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\obj\Debug\Practical5.csproj.GenerateResource.Cache
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\obj\Debug\Practical5.exe
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\obj\Debug\Practical5.pdb
+C:\Users\rasikawg_ps14041\Desktop\pro\test\cosc_32035\Practical5\Practical5\obj\Debug\Practical5.Form2.resources
