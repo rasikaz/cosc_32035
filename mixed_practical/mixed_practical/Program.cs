@@ -16,7 +16,7 @@ namespace mixed_practical
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ex2());
+            Application.Run(new Ex3());
         }
     }
 }
